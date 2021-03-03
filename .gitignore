@@ -1,0 +1,13 @@
+src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.dll
+test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.pdb
+test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.Tests.dll
+test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.Tests.pdb
+test/GradeBook.Tests/bin/Debug/net5.0/ref/GradeBook.Tests.dll
+test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.csprojAssemblyReference.cache
+test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.dll
+test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.pdb
+test/GradeBook.Tests/obj/Debug/net5.0/ref/GradeBook.Tests.dll

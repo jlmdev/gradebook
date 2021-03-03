@@ -17,6 +17,10 @@ namespace GradeBook
             {
                 grades.Add(grade);
             }
+            else
+            {
+                System.Console.WriteLine("Invalid value");
+            }
         }
 
         public Statistics GetStatistics()

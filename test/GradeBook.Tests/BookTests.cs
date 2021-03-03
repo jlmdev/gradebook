@@ -23,5 +23,16 @@ namespace GradeBook.Tests
             Assert.Equal(77.3, result.Low, 1);
 
         }
+
+        [Fact]
+        public void GradeLogicWorks()
+        {
+            var book = new Book("");
+            book.AddGrade(105);
+            var noGrade = book.GetStatistics();
+
+            Assert.NotEqual(105, noGrade.Average);
+
+        }
     }
 }
