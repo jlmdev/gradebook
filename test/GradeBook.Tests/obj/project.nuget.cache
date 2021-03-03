@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oLkJib/IwSP1OnfIdboc2nynEUEokWXTwUmBEyd4rYIiz7Fc+AT7NOLnIj4eH6twi0UdLz6TVab5mNETBFNLpg==",
+  "dgSpecHash": "10bgGFwulS/IQq85Jl10JDwoHpfkUkMULqLmdXXnbfJE0nUwlUHLFjE23dxkyv/TnqXBXI1KikpElIfprwDHaA==",
   "success": true,
   "projectFilePath": "/Users/joshuamann/Projects/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [

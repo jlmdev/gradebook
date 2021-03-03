@@ -97,3 +97,5 @@
 /Users/joshuamann/Projects/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/ref/GradeBook.Tests.dll
 /Users/joshuamann/Projects/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.pdb
 /Users/joshuamann/Projects/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.genruntimeconfig.cache
+/Users/joshuamann/Projects/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.dll
+/Users/joshuamann/Projects/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.pdb
